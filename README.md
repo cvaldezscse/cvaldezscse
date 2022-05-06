@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning with AWS**
 
-- 👯 I’m looking to collaborate on **OpenSource and DevOps Projects**
+- 👯 I’m looking to collaborate on **OpenSource projects and Applications that use AWS**
 
 - 👨‍💻 All of my public projects are available at **[My Portfolio](https://github.com/cvaldezscse)**
 
