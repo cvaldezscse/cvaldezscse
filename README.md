@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[All-proof Mobile Test Automation framework](https://github.com/cvaldezscse/autonomode.mobile)**
+- 🔭 I’m currently working on **[All-proof Mobile Test Automation framework](https://github.com/cvaldezscse/autonomode-mobile)**
 
 - 🌱 I’m currently learning **Machine Learning with AWS**
 
