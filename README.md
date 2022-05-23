@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **cvaldez.scse@gmail.com**
 
-- ⚡ Fun fact **I play videogames and like the thriller and comedy movies 🍿📽**
+- ⚡ Fun fact **I play videogames and like the horror and comedy movies 🍿📽**
 
 ## 🚀 Programming Languages:
 
