@@ -8,9 +8,11 @@
 
 - 🔭 I’m currently working on **[All-proof Mobile Test Automation framework](https://github.com/cvaldezscse/autonomode-mobile)**
 
-- 🌱 I’m currently learning **Machine Learning with AWS**
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **OpenSource projects and Applications that use AWS**
+- 👯 I’m looking to collaborate on **OpenSource projects 
+and/or Applications 
+that use AWS as part of its core**
 
 - 👨‍💻 All of my public projects are available at **[My Portfolio](https://github.com/cvaldezscse)**
 
