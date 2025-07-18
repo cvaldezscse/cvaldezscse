@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[All-proof Mobile Test Automation framework](https://github.com/cvaldezscse/autonomode-mobile)**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning about **Machine Learning** and **AWS Certifications prep**
 
 - 👯 I’m looking to collaborate on **OpenSource projects 
 and/or Applications 
@@ -54,7 +54,6 @@ that use AWS as part of its core**
 
 ## 📊 My Github Stats
 
-
 <br/>
     <a href="https://github.com/cvaldezscse/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cvaldezscse&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/cvaldezscse/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvaldezscse&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -63,10 +62,6 @@ that use AWS as part of its core**
 
 
 <br/>
-<br/>
-
-<a href="https://github.com/cvaldezscse/github-readme-activity-graph"><img alt="Carlos' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cvaldezscse&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
