@@ -45,19 +45,6 @@ that use AWS as part of its core**
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>
 <br/>
 
-<br/><br/><br/>
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/sergiecode">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cvaldezscse&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cvaldezscse&layout=compact&langs_count=8&theme=algolia">
-  </a>
-</p>
-
-
-
-
 <p align="center">
     <a href="https://github.com/cvaldezscse/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="cvaldezscse's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cvaldezscse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -71,6 +58,15 @@ that use AWS as part of its core**
   <a href="https://github.com/cvaldezscse/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvaldezscse&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<p align="center">
+  <a href="https://github.com/sergiecode">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cvaldezscse&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cvaldezscse&layout=compact&langs_count=8&theme=algolia">
+  </a>
+</p>
+
 
 
 <br/>
